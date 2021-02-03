@@ -11,14 +11,14 @@ class Route extends Command
      *
      * @var string
      */
-    protected $signature = 'command:name';
+    protected $signature = 'Route:Calculate';
 
     /**
      * The console command description.
      *
      * @var string
      */
-    protected $description = 'Command description';
+    protected $description = 'Calculates Route Information';
 
     /**
      * Create a new command instance.
